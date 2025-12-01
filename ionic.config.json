@@ -1,0 +1,8 @@
+{
+  "name": "ApoHeat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "c2860683"
+}
